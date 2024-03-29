@@ -1,0 +1,7 @@
+The dataset has not been uploaded on the github to protect the privacy of my loved ones. However you can create your own dataset or download any dataset for this project from kaggle also.
+
+In this Face Mask Detection project, we have trained the model using CNN for detection on our own created dataset i.e., custom dataset of total 349 images. Additionally, we have done comparative analysis of two optimizers, namely, Adam and Adamax optimizer.
+
+The dataset that has been used in this project is a CUSTOM DATASET which includes collected images as well as captured images using webcam, of my dearly family members as well as my close friends, among which some were selected and mixed together to create a dataset.
+
+For data collection, three folders were created TRAIN, TEST, and VALIDATION folder and each folder includes two subfolders: with mask, and without mask consisting of total 349 images out of which some are captured images. The dataset does not include all the captured images as it is mixture of captured and collected images. 5 frames were captured for a single person with a time gap of 10 seconds for a transition between collecting images with mask and without mask.
